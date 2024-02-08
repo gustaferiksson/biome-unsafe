@@ -7,7 +7,7 @@
     "apply": "biome lint . --apply"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.5.1",
+    "@biomejs/biome": "1.5.3",
     "@types/bun": "latest"
   },
   "peerDependencies": {
