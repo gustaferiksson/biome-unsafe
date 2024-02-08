@@ -1,1 +1,3 @@
-console.log("Hello via Bun!");
+// const unused = `hello`
+
+const unused = `hellothere`

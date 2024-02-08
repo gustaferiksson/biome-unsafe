@@ -2,7 +2,11 @@
   "name": "biome-unsafe",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "lint": "biome check ."
+  },
   "devDependencies": {
+    "@biomejs/biome": "1.5.1",
     "@types/bun": "latest"
   },
   "peerDependencies": {
