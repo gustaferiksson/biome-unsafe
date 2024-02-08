@@ -1,3 +1,3 @@
-// const unused = `hello`
+// const hello = `there`
 
-const unused = `hellothere`
+const hello = `there`
